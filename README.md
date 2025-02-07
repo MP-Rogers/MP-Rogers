@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm MP Rogers. A Jamaican Marine Scientist. 
+I'm MP Rogers. A Jamaican Marine Scientist with a little facination with tech and data. 
+I'm currently(2025) researching endemic Caribbean seaweeds, and working on my data analysis and communication skills on the side.
 
 <!--
 **MP-Rogers/MP-Rogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
