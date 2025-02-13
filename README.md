@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm MP Rogers. A Jamaican Marine Scientist with a little facination with tech and data. 
+I'm MP Rogers, a janmaican marine Scientist with a little facination with tech and data. 
 I'm currently(2025) researching endemic Caribbean seaweeds, and working on my data analysis and communication skills on the side.
 
 <!--
